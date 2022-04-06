@@ -1,0 +1,8 @@
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\SolidPrinciple.exe.config
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\SolidPrinciple.exe
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\SolidPrinciple.pdb
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.exe
+C:\Users\Shebnem\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.pdb
